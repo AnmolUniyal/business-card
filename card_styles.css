@@ -1,0 +1,36 @@
+.img_loki{
+    width:150px;
+    margin:10px;
+}
+
+.border_blue{
+    border:3px dotted darkgreen;
+}
+
+.fcontainer{
+    display:flex;
+    justify-content:space-evenly;
+    margin-left:auto;
+    margin-right:auto;
+    width:400px;
+    padding:20px;
+    border-bottom:3px darkgreen;
+}
+
+.fitem{
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+}
+
+.border{
+    border-bottom:8px solid darkgreen;
+    background:lightgreen;
+    color: black;
+
+}
+
+body{
+    margin:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
